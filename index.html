@@ -4,10 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-    <header></header>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="index.html">Home</a>
+            <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+        </nav>
+    </header>
 
     <main class="apresentacao">
         <section class="apresentacao__conteudo">
@@ -23,14 +28,27 @@
             </p>
 
             <div class="apresentacao__links">
-                <a class="apresentacao__links__link" href="https://instagram.com/Adam_Kevin_Felix">Instagram</a>
-                <a class="apresentacao__links__link" href="https://github.com/Adam-Kevin">Github</a>
+                <h2 class="apresentacao__links__subtitulo">Acesse minhas redes:</h2>
+                
+                <a class="apresentacao__links__link" href="https://github.com/Adam-Kevin">
+                    <img src="./assets/github.png" alt="Ícone do Github"> Github
+                </a>
+                
+                <a class="apresentacao__links__link" href="https://instagram.com/Adam_Kevin_Felix">
+                    <img src="./assets/instagram.png" alt="Ícone do Instagram"> Instagram
+                </a>
+                
+                <a class="apresentacao__links__link" href="https://linkedin.com/in/adam-kevin-felix-34562a352">
+                    <img src="./assets/linkedin.png" alt="Ícone do Linkedin"> Linkedin
+                </a>
             </div>
         </section>
 
-        <img src="imagemcodando.png" alt="Desenho de uma pessoa codando">
+        <img src="./assets/imagemcodando.png" alt="Desenho de uma pessoa codando">
     </main>
 
-    <footer></footer>
+    <footer class="rodape">
+        <p>Desenvolvido por Adam Kevin.</p>
+    </footer>
 </body>
 </html>
