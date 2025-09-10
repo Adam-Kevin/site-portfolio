@@ -14,11 +14,10 @@ O objetivo é apresentar minhas habilidades como desenvolvedor Front-end e ofere
 
 ## 📂 Estrutura do Projeto
 
-├── index.html
-
-├── style.css
-
-├── imagemcodando.png
+- `index.html` → Página inicial com apresentação e links para redes sociais.  
+- `about.html` → Página "Sobre mim", com mais informações pessoais e profissionais.  
+- `styles/` → Pasta que contém o arquivo de estilos (`style.css`).  
+- `assets/` → Imagens e ícones usados no projeto.
 
 
 ---
@@ -32,12 +31,15 @@ O objetivo é apresentar minhas habilidades como desenvolvedor Front-end e ofere
 
 ## 🔗 Links
 - [Instagram](https://instagram.com/Adam_Kevin_Felix)  
-- [GitHub](https://github.com/Adam-Kevin)  
+- [GitHub](https://github.com/Adam-Kevin)
+- [Linkedin](https://linkedin.com/in/adam-kevin-felix-34562a352)
 
 ---
 
 ## 📷 Prévia
 <img width="1865" height="923" alt="image" src="https://github.com/user-attachments/assets/d5764f10-a425-4218-b491-25369f8f0012" />
+<img width="1852" height="923" alt="image" src="https://github.com/user-attachments/assets/870ffa47-6112-4fa2-b094-fd3a84e62e5f" />
+
 
 
 ---
