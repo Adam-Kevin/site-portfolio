@@ -40,10 +40,10 @@ O objetivo é apresentar minhas habilidades como desenvolvedor Front-end e ofere
 
 ## 📷 Prévia
 <img width="1865" height="923" alt="image" src="https://github.com/user-attachments/assets/d5764f10-a425-4218-b491-25369f8f0012" />
-<img width="1852" height="923" alt="image" src="https://github.com/user-attachments/assets/
-870ffa47-6112-4fa2-b094-fd3a84e62e5f" />
+<img width="1852" height="923" alt="image" src="https://github.com/user-attachments/assets/870ffa47-6112-4fa2-b094-fd3a84e62e5f" />
 
 ### 📱 Versão Mobile
+<img width="494" height="849" alt="image" src="https://github.com/user-attachments/assets/1b8d14de-cc53-423c-beeb-fe91fd782b0a" />
 
 
 
