@@ -9,6 +9,7 @@ O objetivo é apresentar minhas habilidades como desenvolvedor Front-end e ofere
 - **HTML5**
 - **CSS3**
 - **Google Fonts** (Krona One, Montserrat)
+- **Flexbox** para responsividade
 
 ---
 
@@ -23,9 +24,10 @@ O objetivo é apresentar minhas habilidades como desenvolvedor Front-end e ofere
 ---
 
 ## 🎨 Layout
-- Fundo escuro `#07020c` com contraste em **aquamarine** para destaques.
-- Estrutura **responsiva com Flexbox**.
-- Links estilizados como botões chamativos.
+- Fundo escuro `#07020c` com contraste em **aquamarine** para destaques.  
+- Estrutura **responsiva com Flexbox**.  
+- Melhor adaptação para **dispositivos móveis (mobile first)**.  
+- Links estilizados como **botões interativos** com efeito hover.
 
 ---
 
@@ -38,7 +40,11 @@ O objetivo é apresentar minhas habilidades como desenvolvedor Front-end e ofere
 
 ## 📷 Prévia
 <img width="1865" height="923" alt="image" src="https://github.com/user-attachments/assets/d5764f10-a425-4218-b491-25369f8f0012" />
-<img width="1852" height="923" alt="image" src="https://github.com/user-attachments/assets/870ffa47-6112-4fa2-b094-fd3a84e62e5f" />
+<img width="1852" height="923" alt="image" src="https://github.com/user-attachments/assets/
+870ffa47-6112-4fa2-b094-fd3a84e62e5f" />
+
+### 📱 Versão Mobile
+
 
 
 ---
